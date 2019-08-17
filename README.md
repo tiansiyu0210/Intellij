@@ -1,8 +1,10 @@
 # [Intellij for Mac](https://www.jetbrains.com/help/rider/Reference_Keymap_Rider_OSX.html)
+## Command
 - [Command + Num](#command--num)
 - [Command + Letter](#command--letter)
 - [Command + Other](#command--other)
 
+## Option
 - [Option + Other](#option--other)
 
 
