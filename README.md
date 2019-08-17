@@ -1,6 +1,7 @@
 # [Intellij for Mac](https://www.jetbrains.com/help/rider/Reference_Keymap_Rider_OSX.html)
 - [Command + Num](#command--num)
 - [Command + Letter](#command--letter)
+- [Command + Other](#command--other)
 
 
 ## Command + Num 
@@ -66,6 +67,22 @@
 
 ### comm + A/C/X/V/Z/S
 > select all /copy /cut /paste /undo /save
+
+## Command + Other
+
+### comm + left/right
+> go to start/end of a line
+
+### comm + ,
+> open setting pop-up
+
+### comm + "[" / "]"
+>back / forward
+
+### comm + /
+> Comment/uncomment with Line Comment
+
+> comm + option + / : Comment/uncomment with Block Comment
 
 
 
