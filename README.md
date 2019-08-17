@@ -1,4 +1,4 @@
-# Intellij for Mac
+# [Intellij for Mac](https://www.jetbrains.com/help/rider/Reference_Keymap_Rider_OSX.html)
 - [Command + Num](#command--num)
 - [Command + Letter](#command--letter)
 
