@@ -3,6 +3,8 @@
 - [Command + Letter](#command--letter)
 - [Command + Other](#command--other)
 
+-[Option + Other](#option--other)
+
 
 ## Command + Num 
 > open tool window
@@ -83,6 +85,14 @@
 > Comment/uncomment with Line Comment
 
 > comm + option + / : Comment/uncomment with Block Comment
+
+
+## Option + Other
+
+### option + enter
+> [Show Action List](https://www.jetbrains.com/help/rider/Coding_Assistance__Context_Actions.html)
+
+
 
 
 
