@@ -24,6 +24,9 @@
 ### comm + 7
 > open/close Structure window
 
+### comm + 9
+> open [version control](https://www.jetbrains.com/help/rider/Version_Control_Integration.html) window
+
 ## Command + Letter
 
 ### comm + N
