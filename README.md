@@ -3,7 +3,7 @@
 - [Command + Letter](#command--letter)
 - [Command + Other](#command--other)
 
--[Option + Other](#option--other)
+- [Option + Other](#option--other)
 
 
 ## Command + Num 
