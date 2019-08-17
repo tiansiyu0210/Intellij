@@ -55,6 +55,7 @@
 
 ### comm + K
 > open commit pop-up
+
 > then use *comm + D* to open diff view
 
 ### comm + T
