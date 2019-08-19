@@ -35,6 +35,9 @@
 ### comm + 7
 > open/close Structure window
 
+### comm + 8
+>open class Hierarchy window (as same as Ctrl + H)
+
 ### comm + 9
 > open [version control](https://www.jetbrains.com/help/rider/Version_Control_Integration.html) window
 
@@ -125,6 +128,21 @@
 
 ### Ctrl + G
 > [Add Selection for Next Occurrence](https://www.jetbrains.com/help/rider/Selecting_Text_in_the_Editor.html#multiselection)
+
+### Ctrl + D
+> run test in debug mode
+
+### Ctrl + R
+> run test in run mode
+
+### Ctrl + O
+> open override pop-up
+
+### Ctrl + H
+>open class Hierarchy window (as same as comm + 8)
+
+### Ctrl + K
+> delete from cursor to the end of line; 
 
 
 
