@@ -7,6 +7,12 @@
 ## Option
 - [Option + Other](#option--other)
 
+## Ctrl
+- [Ctrl + Letter](#ctrl--letter)
+
+---
+---
+
 
 ## Command + Num 
 > open tool window
@@ -69,6 +75,9 @@
 ### comm + T
 > update project by git
 
+### comm + O
+> class search
+
 ### comm + A/C/X/V/Z/S
 > select all /copy /cut /paste /undo /save
 
@@ -95,8 +104,16 @@
 > [Show Action List](https://www.jetbrains.com/help/rider/Coding_Assistance__Context_Actions.html)
 
 
+## Ctrl + Letter
 
+### Ctrl + V
+> open [VCS Operations Popup](https://www.jetbrains.com/help/rider/Version_Control_Integration.html)
 
+### Ctrl + T
+> open [Refactor this pop-up](https://www.jetbrains.com/help/rider/Refactor_This.html)
+
+### Ctrl + G
+> [Add Selection for Next Occurrence](https://www.jetbrains.com/help/rider/Selecting_Text_in_the_Editor.html#multiselection)
 
 
 
