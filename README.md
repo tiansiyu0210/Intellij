@@ -4,6 +4,9 @@
 - [Command + Letter](#command--letter)
 - [Command + Other](#command--other)
 
+## Command + Shift
+- [Command + Shift + Letter](#command--shift--letter)
+
 ## Option
 - [Option + Other](#option--other)
 
@@ -159,3 +162,39 @@
 ### Ctrl + Enter
 > open Generate(like comm + N)
 
+## Command + Shift + Number
+
+### comm + shift + 2
+> *open view breakpoint pop-up
+
+## Command + Shift + Letter
+
+### comm + shift + V
+> paste from history
+
+### comm + shift + C
+> copy file path
+
+### comm + shift + U
+> Toggle Case
+
+### comm + shift + K
+> push
+
+### comm + shift + B
+>Type Declaration(similar to comm + B)
+
+### comm + shift + F
+> search all
+
+### comm + shift + R
+> replace all
+
+### comm + shift + T
+> create test class
+
+### comm + shift + O
+> file search (similar to comm + O class search)
+
+### comm + shift + A
+> open Action pop-up
