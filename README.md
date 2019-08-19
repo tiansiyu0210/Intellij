@@ -9,6 +9,7 @@
 
 ## Ctrl
 - [Ctrl + Letter](#ctrl--letter)
+- [Ctrl + Other](#ctrl--other)
 
 ---
 ---
@@ -44,7 +45,7 @@
 ## Command + Letter
 
 ### comm + N
-> open Generate
+> open Generate (as same as Ctrl + Enter)
 
 ### comm + F
 > find in file
@@ -144,5 +145,17 @@
 ### Ctrl + K
 > delete from cursor to the end of line; 
 
+## Ctrl + Other
 
+### Ctrl + Up/Down
+> go to pervioue/next method
+
+### Ctrl + Tab
+> switcher (like comm + E, but need to hold Ctrl and hit Tab key or arrow key, then release to perform switch)
+
+### Ctrl + Space
+> basic compliation
+
+### Ctrl + Enter
+> open Generate(like comm + N)
 
