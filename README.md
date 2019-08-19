@@ -78,6 +78,17 @@
 ### comm + O
 > class search
 
+### comm + Q
+> quite intellij
+
+### comm + W
+> close current tab
+
+### comm + J
+> [insert live template](https://www.jetbrains.com/help/rider/Using_Live_Templates.html)
+
+###
+
 ### comm + A/C/X/V/Z/S
 > select all /copy /cut /paste /undo /save
 
