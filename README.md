@@ -6,6 +6,10 @@
 
 ## Command + Shift
 - [Command + Shift + Letter](#command--shift--letter)
+- [Command + Shift + Other](#command--shift--other)
+
+## Command + Option
+- [Command + Option + Letter](#command--option--letter)
 
 ## Option
 - [Option + Other](#option--other)
@@ -198,3 +202,26 @@
 
 ### comm + shift + A
 > open Action pop-up
+
+## Command + Shift + Other
+
+### comm + shift + up/down
+> move statement up/down
+
+## Command + Option + Letter
+
+### comm + option + O
+> search symbol (1. comm + O : class search; 2. comm + shift + O : file search);
+
+### comm + option + B
+> go to Implementation
+
+### comm + option + M
+> Extract Method refactoring
+
+### comm + option + F
+> refactor field
+
+
+
+
